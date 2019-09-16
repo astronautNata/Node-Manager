@@ -1,0 +1,19 @@
+{
+  "name": "network_node",
+  "version": "1.0.0",
+  "description": "This will represent one node in virtual network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "network"
+  ],
+  "author": "Natalija Ostojic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0"
+  }
+}

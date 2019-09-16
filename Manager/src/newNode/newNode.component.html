@@ -1,0 +1,19 @@
+<form>
+  <div class="form-group">
+    <label>Host</label>
+    <input type="text" class="form-control" aria-describedby="emailHelp" placeholder="e.g. localhost" name="host" [(ngModel)]="host">
+  </div>
+  <div class="form-group">
+    <label>Port</label>
+    <input type="number" class="form-control" placeholder="e.g. 3000" name="port" [(ngModel)]="port">
+  </div>
+  <div class="form-group">
+    <label>Upload threshold</label>
+    <input type="number" class="form-control" placeholder="18" name="uploadThreshold" [(ngModel)]="uploadThreshold">
+  </div>
+  <div class="form-group">
+    <label>Download threshold</label>
+    <input type="number" class="form-control" placeholder="30" name="downloadthreshold" [(ngModel)]="downloadThreshold">
+  </div>
+  <button type="submit" class="btn btn-primary" (click)="onAddNewNode()" data-dismiss="modal" aria-label="Close">Submit</button>
+</form>

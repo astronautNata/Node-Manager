@@ -1,0 +1,42 @@
+D:/Job applications/Node Manager/API/bin/Debug/netcoreapp2.2/API.deps.json
+D:/Job applications/Node Manager/API/bin/Debug/netcoreapp2.2/API.runtimeconfig.json
+D:/Job applications/Node Manager/API/bin/Debug/netcoreapp2.2/API.runtimeconfig.dev.json
+D:/Job applications/Node Manager/API/bin/Debug/netcoreapp2.2/API.dll
+D:/Job applications/Node Manager/API/bin/Debug/netcoreapp2.2/API.pdb
+D:/Job applications/Node Manager/API/obj/Debug/netcoreapp2.2/API.csprojAssemblyReference.cache
+D:/Job applications/Node Manager/API/obj/Debug/netcoreapp2.2/API.csproj.CoreCompileInputs.cache
+D:/Job applications/Node Manager/API/obj/Debug/netcoreapp2.2/API.RazorAssemblyInfo.cache
+D:/Job applications/Node Manager/API/obj/Debug/netcoreapp2.2/API.RazorAssemblyInfo.cs
+D:/Job applications/Node Manager/API/obj/Debug/netcoreapp2.2/API.AssemblyInfoInputs.cache
+D:/Job applications/Node Manager/API/obj/Debug/netcoreapp2.2/API.AssemblyInfo.cs
+D:/Job applications/Node Manager/API/obj/Debug/netcoreapp2.2/API.RazorTargetAssemblyInfo.cache
+D:/Job applications/Node Manager/API/obj/Debug/netcoreapp2.2/API.dll
+D:/Job applications/Node Manager/API/obj/Debug/netcoreapp2.2/API.pdb
+/Users/natalijaostojic/Desktop/Node Manager/API/bin/Debug/netcoreapp2.2/API.deps.json
+/Users/natalijaostojic/Desktop/Node Manager/API/bin/Debug/netcoreapp2.2/API.runtimeconfig.json
+/Users/natalijaostojic/Desktop/Node Manager/API/bin/Debug/netcoreapp2.2/API.runtimeconfig.dev.json
+/Users/natalijaostojic/Desktop/Node Manager/API/bin/Debug/netcoreapp2.2/API.dll
+/Users/natalijaostojic/Desktop/Node Manager/API/bin/Debug/netcoreapp2.2/API.pdb
+/Users/natalijaostojic/Desktop/Node Manager/API/obj/Debug/netcoreapp2.2/API.csprojAssemblyReference.cache
+/Users/natalijaostojic/Desktop/Node Manager/API/obj/Debug/netcoreapp2.2/API.csproj.CoreCompileInputs.cache
+/Users/natalijaostojic/Desktop/Node Manager/API/obj/Debug/netcoreapp2.2/API.RazorAssemblyInfo.cache
+/Users/natalijaostojic/Desktop/Node Manager/API/obj/Debug/netcoreapp2.2/API.RazorAssemblyInfo.cs
+/Users/natalijaostojic/Desktop/Node Manager/API/obj/Debug/netcoreapp2.2/API.AssemblyInfoInputs.cache
+/Users/natalijaostojic/Desktop/Node Manager/API/obj/Debug/netcoreapp2.2/API.AssemblyInfo.cs
+/Users/natalijaostojic/Desktop/Node Manager/API/obj/Debug/netcoreapp2.2/API.RazorTargetAssemblyInfo.cache
+/Users/natalijaostojic/Desktop/Node Manager/API/obj/Debug/netcoreapp2.2/API.dll
+/Users/natalijaostojic/Desktop/Node Manager/API/obj/Debug/netcoreapp2.2/API.pdb
+/Users/natalijaostojic/Downloads/NodeManager/API/bin/Debug/netcoreapp2.2/API.deps.json
+/Users/natalijaostojic/Downloads/NodeManager/API/bin/Debug/netcoreapp2.2/API.runtimeconfig.json
+/Users/natalijaostojic/Downloads/NodeManager/API/bin/Debug/netcoreapp2.2/API.runtimeconfig.dev.json
+/Users/natalijaostojic/Downloads/NodeManager/API/bin/Debug/netcoreapp2.2/API.dll
+/Users/natalijaostojic/Downloads/NodeManager/API/bin/Debug/netcoreapp2.2/API.pdb
+/Users/natalijaostojic/Downloads/NodeManager/API/obj/Debug/netcoreapp2.2/API.csprojAssemblyReference.cache
+/Users/natalijaostojic/Downloads/NodeManager/API/obj/Debug/netcoreapp2.2/API.csproj.CoreCompileInputs.cache
+/Users/natalijaostojic/Downloads/NodeManager/API/obj/Debug/netcoreapp2.2/API.RazorAssemblyInfo.cache
+/Users/natalijaostojic/Downloads/NodeManager/API/obj/Debug/netcoreapp2.2/API.RazorAssemblyInfo.cs
+/Users/natalijaostojic/Downloads/NodeManager/API/obj/Debug/netcoreapp2.2/API.AssemblyInfoInputs.cache
+/Users/natalijaostojic/Downloads/NodeManager/API/obj/Debug/netcoreapp2.2/API.AssemblyInfo.cs
+/Users/natalijaostojic/Downloads/NodeManager/API/obj/Debug/netcoreapp2.2/API.RazorTargetAssemblyInfo.cache
+/Users/natalijaostojic/Downloads/NodeManager/API/obj/Debug/netcoreapp2.2/API.dll
+/Users/natalijaostojic/Downloads/NodeManager/API/obj/Debug/netcoreapp2.2/API.pdb
